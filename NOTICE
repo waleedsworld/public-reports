@@ -1,0 +1,37 @@
+NOTICE — Attribution and Provenance
+====================================
+
+This repository is an ARCHIVAL FORK of a third-party dataset. It is not an original
+work of the account hosting this fork, and no authorship, discovery, or ownership of
+the underlying content is claimed here.
+
+Original dataset
+----------------
+  Compiled and published by : phlmox (https://github.com/phlmox)
+  Upstream repository        : phlmox/public-reports
+                               https://github.com/phlmox/public-reports
+
+Data source
+-----------
+  HackerOne Hacktivity — HackerOne's public feed of disclosed security reports.
+  https://hackerone.com/hacktivity
+
+  The file `hackerone-one-million-reports` contains report URLs and their public
+  titles as disclosed on hackerone.com. All report content, titles, program names,
+  brand names, and trademarks referenced in the data are the property of their
+  respective report authors, the participating programs, and HackerOne, Inc.
+
+Nature of this copy
+-------------------
+  - This is a point-in-time archival mirror (source data circa 2021, ending around
+    HackerOne report ID ~1,002,000).
+  - It is NOT maintained or kept current.
+  - It aggregates only publicly disclosed metadata (report URLs and public titles).
+    It contains no private report content, no personal data beyond public report
+    titles, and no credentials, secrets, or tracking code.
+
+Terms
+-----
+  Use this archive as reference material only. When accessing the linked reports or
+  the HackerOne platform, comply with HackerOne's Terms of Service and each program's
+  disclosure terms. This NOTICE must be retained in any copy or redistribution.
